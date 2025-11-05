@@ -45,8 +45,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=krazy527&count_private=true&show_icons=true&include_all_commits=true)
-
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krazy527.krazy527)
