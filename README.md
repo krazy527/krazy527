@@ -14,6 +14,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-karan_yadav527-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/karan_yadav527/)](https://instagram.com/karan_yadav527)
 [![Gmail Badge](https://img.shields.io/badge/-karanyadav527@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanyadav527@gmail.com)](mailto:karanyadav527@gmail.com)
 <br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krazy527/krazy527/output/pacman-contribution-graph-dark.svg">
