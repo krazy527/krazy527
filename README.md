@@ -11,6 +11,11 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 
+
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45" />
+<br><br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-krazy527-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krazy527/)](https://www.linkedin.com/in/krazy527/)
 [![Instagram Badge](https://img.shields.io/badge/-karan_yadav527-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/karan_yadav527/)](https://instagram.com/karan_yadav527)
 [![Gmail Badge](https://img.shields.io/badge/-karanyadav527@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanyadav527@gmail.com)](mailto:karanyadav527@gmail.com)
@@ -52,11 +57,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45" />
-<br><br>
 
 ##
 
