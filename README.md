@@ -1,5 +1,6 @@
-##
+
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
 <br>
 
 <div align="center">
@@ -26,6 +27,7 @@
 
 
 ## ⚡ Technologies
+
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -57,6 +59,7 @@
 <br><br>
 
 ##
+
 <br>
 
 [![krazy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=krazy527\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/krazy527/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
@@ -66,6 +69,9 @@
 [![Profile Visits](https://komarev.com/ghpvc/?username=krazy527&color=FF4500)](https://github.com/krazy527)
 
 ##
+
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=krazy527&theme=oldie)](https://github.com/krazy527/github-profile-trophy)
 
 
