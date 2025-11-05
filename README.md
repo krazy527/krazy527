@@ -68,7 +68,7 @@
 
 <br>
 
-##
+## ⚡ Achievements ⚡
 
 <br>
 
@@ -82,6 +82,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krazy527.krazy527)
 [![Profile Visits](https://komarev.com/ghpvc/?username=krazy527&color=FF4500)](https://github.com/krazy527)
 
-##
+
 
 </div>
