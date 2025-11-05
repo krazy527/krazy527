@@ -22,6 +22,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krazy527/krazy527/output/pacman-contribution-graph.svg">
 </picture>
 
+<br>
+
+
 ## ⚡ Technologies
 <br>
 
