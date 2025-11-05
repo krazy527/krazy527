@@ -1,6 +1,17 @@
 ##
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
+<div align="center">
+<br>
+<pre>
+    💼 BSC-CS @ MU • FullStack dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    <!-- 🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥 -->
+</pre>
+
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-krazy527-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/krazy527/)
 [![Instagram Badge](https://img.shields.io/badge/-karan_yadav527-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/karan_yadav527)
 [![Gmail Badge](https://img.shields.io/badge/-karanyadav527@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:karanyadav527@gmail.com)
@@ -35,6 +46,11 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
 
 ##
 [![krazy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=krazy527\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/krazy527/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
@@ -74,3 +90,4 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p> -->
+</div>
