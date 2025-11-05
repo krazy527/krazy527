@@ -60,6 +60,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krazy527.krazy527)
 [![Profile Visits](https://komarev.com/ghpvc/?username=krazy527&color=FF4500)](https://github.com/krazy527)
 
+##
+[![trophy](https://github-profile-trophy.vercel.app/?username=krazy527&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- <p align="left">  
 <a href="https://github.com/krazy527">
