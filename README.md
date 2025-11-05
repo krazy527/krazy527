@@ -1,9 +1,13 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-krazy527-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/krazy527/)
 [![Instagram Badge](https://img.shields.io/badge/-karan_yadav527-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/karan_yadav527)
 [![Gmail Badge](https://img.shields.io/badge/-karanyadav527@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:karanyadav527@gmail.com)
+
+
 
 
 
@@ -13,8 +17,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krazy527/krazy527/output/pacman-contribution-graph.svg">
 </picture>
 
-## ⚡ Technologies
 
+
+## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -38,17 +43,17 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=krazy527&count_private=true&show_icons=true&include_all_commits=true)
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krazy527.krazy527)
 
 
 
-
-
-
-## Things I use on a daily basis
-<p align="left">  
+<!-- <p align="left">  
 <a href="https://github.com/krazy527">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
@@ -76,4 +81,4 @@
 <a href="https://github.com/krazy527">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
-</p>
+</p> -->
