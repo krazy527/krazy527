@@ -1,22 +1,20 @@
 ##
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<br>
 
 <div align="center">
-<br>
 <pre>
-    💼 BSC-CS @ MU • FullStack dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
+    💼 BSC-CS @ MU • FullStack dev • Front-end Engineer
+    💻 Web-devlopment • DevOps 
+    📖 Mobile apllication development • Distributed systems
     🎮 Music • Games • Anime • Code • Art
-    <!-- 🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥 -->
 </pre>
 
+[![Linkedin Badge](https://img.shields.io/badge/-krazy527-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krazy527/)](https://www.linkedin.com/in/krazy527/)
+[![Instagram Badge](https://img.shields.io/badge/-karan_yadav527-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/karan_yadav527/)](https://instagram.com/karan_yadav527)
+[![Gmail Badge](https://img.shields.io/badge/-karanyadav527@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanyadav527@gmail.com)](mailto:karanyadav527@gmail.com)
+<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-krazy527-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/krazy527/)
-[![Instagram Badge](https://img.shields.io/badge/-karan_yadav527-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/karan_yadav527)
-[![Gmail Badge](https://img.shields.io/badge/-karanyadav527@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:karanyadav527@gmail.com)
-
-##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krazy527/krazy527/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krazy527/krazy527/output/pacman-contribution-graph.svg">
@@ -24,6 +22,8 @@
 </picture>
 
 ## ⚡ Technologies
+<br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
