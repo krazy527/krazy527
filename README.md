@@ -61,7 +61,11 @@
 [![Profile Visits](https://komarev.com/ghpvc/?username=krazy527&color=FF4500)](https://github.com/krazy527)
 
 ##
-[![trophy](https://github-profile-trophy.vercel.app/?username=krazy527&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krazy527&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+######
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- <p align="left">  
