@@ -82,6 +82,12 @@
 [![krazy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=krazy527\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/krazy527/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![krazy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=krazy527\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/krazy527/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
+
+![Stars](https://img.shields.io/github/stars/krazy527/krazy527)
+![Forks](https://img.shields.io/github/forks/krazy527/krazy527)
+![License](https://img.shields.io/github/license/krazy527/krazy527)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krazy527.krazy527)
 [![Profile Visits](https://komarev.com/ghpvc/?username=krazy527&color=FF4500)](https://github.com/krazy527)
 
