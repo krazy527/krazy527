@@ -74,12 +74,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=krazy527&theme=oldie)](https://github.com/krazy527/github-profile-trophy)
 
-##
-
-<br>
-
-![GitHub stars](https://img.shields.io/github/stars/username/repo)
-
 
 ##
 
