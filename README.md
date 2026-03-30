@@ -73,7 +73,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krazy527&theme=oldie)](https://github.com/krazy527/github-profile-trophy)
+[![trophy](https://github-profile-trophy-rho-gray.vercel.app/?username=krazy527&theme=oldie)](https://github.com/krazy527/github-profile-trophy)
 
 
 ##
